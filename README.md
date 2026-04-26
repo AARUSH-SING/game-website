@@ -24,9 +24,6 @@ Nova is a responsive React website with animated sections, interactive overlays,
 - [Contact](#contact)
 - [License](#license)
 
-## Demo
-
-Live preview: https://nova-game.netlify.app/
 
 ## Features
 
@@ -130,8 +127,4 @@ Contributions are welcome. Feel free to open an issue or submit a pull request o
 - GitHub: [AARUSH-SING](https://github.com/AARUSH-SING)
 - Email: singh29aarush@gmail.com
 
-## License
 
-This project is licensed under the MIT License.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
